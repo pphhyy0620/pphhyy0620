@@ -5,7 +5,7 @@
 
 - 💬 벨로그 : https://velog.io/@dasiy
 
-- 📫 이메일 : pphhyy0620@gmail.com으로 연락주세요.
+- 📫 이메일 : pphhyy0620@gmail.com
 <!--
 **pphhyy0620/pphhyy0620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 \
