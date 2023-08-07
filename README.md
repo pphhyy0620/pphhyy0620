@@ -1,8 +1,11 @@
 안녕하세요 👋 
+저는 자연어처리(NLP)에 대해 공부하고 있습니다. 궁금한 사항이 있으시다면 언제든 편하게 연락주세요 😄
 
-🌱 저는 현재 Kowledge/Document grounding response generation 분야를 연구 주제로 공부하고 있습니다. 
+- 🌱 현재 관심분야 : Kowledge/Document grounding response generation , Retrieval-Based Language Models 
 
-📫 궁금하신 것이 있다면 언제든 pphhyy0620@gmail.com으로 연락주세요.
+- 💬 벨로그 : https://velog.io/@dasiy
+
+- 📫 이메일 : pphhyy0620@gmail.com으로 연락주세요.
 <!--
 **pphhyy0620/pphhyy0620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 \
