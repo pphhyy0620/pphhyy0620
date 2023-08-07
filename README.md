@@ -1,7 +1,7 @@
 안녕하세요 👋 
 저는 현재 자연어처리(NLP)에 대해 공부하고 있습니다. 궁금한 사항이 있으시다면 언제든 편하게 연락주세요 😄
 
-- 🌱 관심분야 : `Knowledge/Document Grounded Response Generation` , `Retrieval-Based Language Models`,  `Question Answering System`
+- 🌱 관심분야 : `Knowledge/Document Grounded Response Generation` , `Retrieval-Based Language Models`,  `Question Answering System`, `In-Context Learning`
 
 - 💬 벨로그 : https://velog.io/@dasiy
 
