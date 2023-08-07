@@ -1,8 +1,11 @@
-### 안녕하세요 👋 자연어처리에 대해 공부하고 기록하고 있습니다 😄
+안녕하세요 👋 
 
+🌱 저는 현재 Kowledge/Document grounding response generation 분야를 연구 주제로 공부하고 있습니다. 
+
+📫 궁금하신 것이 있다면 언제든 pphhyy0620@gmail.com으로 연락주세요.
 <!--
 **pphhyy0620/pphhyy0620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+\
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
